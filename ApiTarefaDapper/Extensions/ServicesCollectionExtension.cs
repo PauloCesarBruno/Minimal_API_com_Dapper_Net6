@@ -1,5 +1,4 @@
 ﻿using System.Data.SqlClient;
-using System.Net.NetworkInformation;
 using static ApiTarefaDapper.Data.TarefaContext;
 
 namespace ApiTarefaDapper.Extensions

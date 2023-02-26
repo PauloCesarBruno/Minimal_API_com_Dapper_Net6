@@ -59,7 +59,6 @@ namespace ApiTarefaDapper.EndPoints
 
                 conn.Delete(deleted);
                 return Results.Ok(deleted);
-
             });
         }
     }
